@@ -1,0 +1,84 @@
+#header{
+    background-color: rgb(240, 160, 40); 
+}
+
+#header h1{
+    font-size: 50px;
+    color: white;
+    margin-top: 100px;
+}
+
+#header p{
+    color: white;
+}
+
+#header img{
+    max-width: 70%;
+}
+
+#header .box{
+    margin: 350px 0 0 150px;
+    position: absolute;
+    background-color: white;
+    width: 400px;
+    display:flex;
+    border-radius: 10px;
+    
+}
+#header .artikel {
+    margin: 20px;
+    color: gray;
+}
+    
+#header .box img{
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+}
+#radio{
+    background-color: rgba(255, 68, 0, 0.137);
+}
+#radio .conten{
+    display: flex;
+    margin: 50px 0;
+}
+#radio .circle i{
+    font-size: 50px;
+    color: rgba(255, 68, 0, 0.829);
+    margin-top: 25px;
+    display: flex;
+    justify-content:center ;
+}
+#radio .circle{
+    border-radius: 50%;
+    background-color: rgba(255, 68, 0, 0.432);
+    width: 100px;
+    height: 100px;
+    
+}
+#radio .text{
+    margin: 20px 0 0 10px;
+}
+#produk .title h1{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 50px;
+}
+#produk .isi-1{
+    font-size: 1em;
+    padding-top: 110px;
+    text-align: center;
+    height: 300px;
+}
+#produk .isi-1:hover{
+    background-color: pink;
+}
+#produk .isi-2{
+    height: 300px;
+    justify-content: center;
+    display: flex;
+}
+#produk img{
+    background-color: gray;
+    max-width: 100%;
+}
